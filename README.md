@@ -21,5 +21,3 @@ In this project, we address the business challenge of customer retention. By ana
 We utilized a **Random Forest Classifier** consisting of 100 decision trees. 
 *   **Objective:** Binary Classification (Churn vs. Stay).
 *   **Evaluation:** The model is evaluated based on its Accuracy, Precision, and Recall via a confusion matrix.
-
-## 🏃 How to Run Locally
